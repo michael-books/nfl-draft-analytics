@@ -2,6 +2,8 @@
 
 > **Who actually becomes elite?** — An analysis of NFL Draft hit rates by round, position, and pick number using Pro Football Reference data (2010–2024).
 
+**[Live Demo →](https://michael-books-nfl-draft-analytics-app-streamlitapp.streamlit.app)**
+
 ## Overview
 
 This project scrapes NFL Draft results and First-Team All-Pro selections from Pro Football Reference, calculates All-Pro "hit rates" by draft round and position, and presents findings as:
