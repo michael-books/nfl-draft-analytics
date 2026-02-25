@@ -21,15 +21,24 @@ def compute_hit_rates_by_round(df: pd.DataFrame) -> pd.DataFrame:
     return grouped.sort_values("round")
 
 
+# Generic group labels that overlap with specific positions — excluded from
+# position-level charts to avoid double-counting (e.g. OL subsumes C/T/G/OT/OG).
+GENERIC_POSITIONS = {"OL", "DL"}
+
+
 def compute_hit_rates_by_position(
     df: pd.DataFrame, min_players: int = 20
 ) -> pd.DataFrame:
     """
     Group by position, filter small samples, sort descending by hit rate.
 
+    Generic umbrella labels (OL, DL) are excluded because they overlap with
+    the specific positions already in the data (C, T, G, DT, DE, etc.).
+
     Returns DataFrame with columns:
         position, hit_rate, allpro_count, total_players
     """
+    df = df[~df["position"].isin(GENERIC_POSITIONS)]
     grouped = df.groupby("position")["is_allpro"].agg(
         allpro_count="sum",
         total_players="count",
@@ -45,7 +54,9 @@ def compute_hit_rates_by_round_and_position(df: pd.DataFrame) -> pd.DataFrame:
 
     Cell values are hit_rate (float).  Positions with fewer than 10 players
     in a given round are NaN (handled in charts.py for gray-out display).
+    Generic umbrella labels (OL, DL) are excluded.
     """
+    df = df[~df["position"].isin(GENERIC_POSITIONS)]
     grouped = df.groupby(["position", "round"])["is_allpro"].agg(
         allpro_count="sum",
         total_players="count",
@@ -86,7 +97,9 @@ def compute_value_table(df: pd.DataFrame) -> pd.DataFrame:
     Returns a DataFrame sorted by the late_round_to_r1_ratio descending,
     with columns: position, r1_rate, r35_rate, late_round_to_r1_ratio,
     r35_count, r1_count
+    Generic umbrella labels (OL, DL) are excluded.
     """
+    df = df[~df["position"].isin(GENERIC_POSITIONS)]
     r1 = df[df["round"] == 1].groupby("position")["is_allpro"].agg(
         r1_allpro="sum",
         r1_count="count",
