@@ -155,12 +155,12 @@ with tab_pos:
     else:
         fig = bar_chart_by_position(pos_df)
         st.plotly_chart(fig, use_container_width=True)
+        top3 = ", ".join(
+            f"{row['position']} ({row['hit_rate']:.1%})"
+            for _, row in pos_df.head(3).iterrows()
+        )
         st.markdown(
-            """
-            **Key takeaway:** Quarterback and Defensive End/Tackle tend to have
-            the highest All-Pro hit rates among draftees.  Specialist positions
-            and certain offensive line spots show lower rates.
-            """
+            f"**Key takeaway:** The three positions with the highest All-Pro hit rates are **{top3}**."
         )
         with st.expander("Raw data"):
             st.dataframe(
