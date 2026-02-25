@@ -69,7 +69,10 @@ year_range = st.sidebar.slider(
     value=(year_min, year_max),
 )
 
-all_positions = sorted(df_full["position"].dropna().unique().tolist())
+GENERIC_POSITIONS = {"OL", "DL"}
+all_positions = sorted(
+    p for p in df_full["position"].dropna().unique() if p not in GENERIC_POSITIONS
+)
 selected_positions = st.sidebar.multiselect(
     "Positions",
     options=all_positions,
