@@ -3382,7 +3382,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 2,57,TAM,Chris Braswell,LB,22,2025,0,0,0,2,2,34,0,0,0,0,0,0,0,0,0,0,0,32,,2.5,Alabama,College Stats,2024,0,chris braswell
 2,58,GNB,Javon Bullard,DB,22,2025,0,0,1,7,7,32,0,0,0,0,0,0,0,0,0,0,0,110,,,Georgia,College Stats,2024,0,javon bullard
 2,59,HOU,Blake Fisher,OL,21,2025,0,0,0,8,8,31,0,0,0,0,0,0,0,0,0,0,0,,,,Notre Dame,College Stats,2024,0,blake fisher
-2,60,BUF,Cole Bishop,SAF,21,2025,0,0,0,9,9,33,0,0,0,0,0,0,0,0,0,0,0,78,3,2.0,Utah,College Stats,2024,0,cole bishop
+2,60,BUF,Cole Bishop,S,21,2025,0,0,0,9,9,33,0,0,0,0,0,0,0,0,0,0,0,78,3,2.0,Utah,College Stats,2024,0,cole bishop
 2,61,DET,Ennis Rakestraw,DB,22,2024,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,4,,,Missouri,College Stats,2024,0,ennis rakestraw
 2,62,BAL,Roger Rosengarten,OL,22,2025,0,0,1,17,17,34,0,0,0,0,0,0,0,0,0,0,0,,,,Washington,College Stats,2024,0,roger rosengarten
 2,63,KAN,Kingsley Suamataia,OL,21,2025,0,0,0,10,10,32,0,0,0,0,0,0,0,0,0,0,0,,,,BYU,College Stats,2024,0,kingsley suamataia
@@ -3400,7 +3400,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 3,75,CHI,Kiran Amegadjie,OL,22,2024,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,0,0,,,,Yale,,2024,0,kiran amegadjie
 3,76,DEN,Jonah Elliss,DE,21,2025,0,0,0,3,3,30,0,0,0,0,0,0,0,0,0,0,0,40,,7.5,Utah,College Stats,2024,0,jonah elliss
 3,77,LVR,Delmar Glaze,OL,22,2025,0,0,1,11,11,34,0,0,0,0,0,0,0,0,0,0,0,,,,Maryland,College Stats,2024,0,delmar glaze
-3,78,HOU,Calen Bullock,SAF,21,2025,0,1,1,14,14,34,0,0,0,0,0,0,0,0,0,0,0,81,9,,USC,College Stats,2024,0,calen bullock
+3,78,HOU,Calen Bullock,S,21,2025,0,1,1,14,14,34,0,0,0,0,0,0,0,0,0,0,0,81,9,,USC,College Stats,2024,0,calen bullock
 3,79,IND,Matt Goncalves,OL,23,2025,0,0,0,12,12,33,0,0,0,0,0,0,0,0,0,0,0,,,,Pittsburgh,College Stats,2024,0,matt goncalves
 3,80,CIN,Jermaine Burton,WR,23,2024,0,0,0,1,1,14,0,0,0,0,0,0,0,0,4,107,0,,,,Alabama,College Stats,2024,0,jermaine burton
 3,81,SEA,Christian Haynes,OL,24,2025,0,0,0,2,2,24,0,0,0,0,0,0,0,0,0,0,0,,,,Connecticut,College Stats,2024,0,christian haynes
@@ -3421,7 +3421,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 3,96,JAX,Jarrian Jones,DB,23,2025,0,0,0,5,5,34,0,0,0,0,0,0,0,0,0,0,0,65,4,2.0,Florida St.,College Stats,2024,0,jarrian jones
 3,97,CIN,McKinnley Jackson,DL,22,2025,0,0,0,2,2,22,0,0,0,0,0,0,0,0,0,0,0,6,,1.0,Texas A&M,College Stats,2024,0,mckinnley jackson
 3,98,PIT,Payton Wilson,LB,24,2025,0,0,0,7,7,34,0,0,0,0,0,0,0,0,0,0,0,123,2,2.0,North Carolina St.,College Stats,2024,0,payton wilson
-3,99,LAR,Kamren Kinchens,SAF,21,2025,0,0,0,8,8,34,0,0,0,0,0,0,0,0,0,0,0,92,6,,Miami (FL),College Stats,2024,0,kamren kinchens
+3,99,LAR,Kamren Kinchens,S,21,2025,0,0,0,8,8,34,0,0,0,0,0,0,0,0,0,0,0,92,6,,Miami (FL),College Stats,2024,0,kamren kinchens
 3,100,WAS,Luke McCaffrey,WR,23,2025,0,0,0,4,4,26,0,0,0,0,0,0,0,0,29,371,3,2,,,Rice,College Stats,2024,0,luke mccaffrey
 4,101,CAR,Ja'Tavion Sanders,TE,21,2025,0,0,0,5,5,29,0,0,0,0,0,0,0,0,62,532,2,3,,,Texas,College Stats,2024,0,jatavion sanders
 4,102,DEN,Troy Franklin,WR,21,2025,0,0,0,8,8,33,0,0,0,0,0,7,20,0,93,972,8,,,,Oregon,College Stats,2024,0,troy franklin
@@ -3454,7 +3454,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 4,129,SFO,Isaac Guerendo,RB,24,2025,0,0,0,4,4,30,0,0,0,0,0,84,420,4,15,152,0,2,,,Louisville,College Stats,2024,0,isaac guerendo
 4,130,BAL,T.J. Tampa,DB,22,2025,0,0,0,1,1,24,0,0,0,0,0,0,0,0,0,0,0,22,1,,Iowa St.,College Stats,2024,0,tj tampa
 4,131,KAN,Jared Wiley,TE,23,2025,0,0,0,0,0,12,0,0,0,0,0,0,0,0,2,11,0,1,,,TCU,College Stats,2024,0,jared wiley
-4,132,DET,Sione Vaki,SAF,23,2025,0,0,0,1,1,27,0,0,0,0,0,7,18,0,3,37,0,14,,,Utah,College Stats,2024,0,sione vaki
+4,132,DET,Sione Vaki,S,23,2025,0,0,0,1,1,27,0,0,0,0,0,7,18,0,3,37,0,14,,,Utah,College Stats,2024,0,sione vaki
 4,133,KAN,Jaden Hicks,DB,22,2025,0,0,0,4,4,34,0,0,0,0,0,1,1,0,0,0,0,52,3,0.5,Washington St.,College Stats,2024,0,jaden hicks
 4,134,NYJ,Braelon Allen,RB,20,2025,0,0,0,4,4,21,0,0,0,0,0,110,410,3,21,165,1,1,,,Wisconsin,College Stats,2024,0,braelon allen
 4,135,SFO,Jacob Cowing,WR,23,2024,0,0,0,1,1,15,0,0,0,0,0,1,7,0,4,80,0,,,,Arizona,College Stats,2024,0,jacob cowing
@@ -3486,7 +3486,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 5,161,WAS,Dominique Hampton,CB,24,2024,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,Washington,College Stats,2024,0,dominique hampton
 5,162,ARI,Christian Jones,OL,24,2025,0,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,,,,Texas,College Stats,2024,0,christian jones
 5,163,GNB,Jacob Monk,OL,23,2025,0,0,0,2,2,17,0,0,0,0,0,0,0,0,0,0,0,,,,Duke,College Stats,2024,0,jacob monk
-5,164,IND,Jaylin Simpson,SAF,24,2025,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,5,,,Auburn,College Stats,2024,0,jaylin simpson
+5,164,IND,Jaylin Simpson,S,24,2025,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,5,,,Auburn,College Stats,2024,0,jaylin simpson
 5,165,BAL,Rasheen Ali,RB,23,2025,0,0,0,1,1,21,0,0,0,0,0,17,55,0,9,68,1,7,,,Marshall,College Stats,2024,0,rasheen ali
 5,166,NYG,Tyrone Tracy Jr.,RB,24,2025,0,0,1,14,14,32,0,0,0,0,0,368,1579,7,74,572,3,,,,Purdue,College Stats,2024,0,tyrone tracy
 5,167,JAX,Keilan Robinson,RB,24,2024,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,,,,Texas,College Stats,2024,0,keilan robinson
@@ -3517,7 +3517,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 6,192,SEA,D.J. James,CB,23,2025,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,1,,,Auburn,College Stats,2024,0,dj james
 6,193,NWE,Joe Milton,QB,24,2025,0,0,0,2,1,5,37,53,424,2,2,15,66,1,0,0,0,,,,Tennessee,College Stats,2024,0,joe milton
 6,194,CIN,Tanner McLachlan,TE,25,2024,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,,,Arizona,College Stats,2024,0,tanner mclachlan
-6,195,PIT,Ryan Watts,SAF,22,,0,0,0,,,,,,,,,,,,,,,,,,Texas,College Stats,2024,0,ryan watts
+6,195,PIT,Ryan Watts,S,22,,0,0,0,,,,,,,,,,,,,,,,,,Texas,College Stats,2024,0,ryan watts
 6,196,LAR,Tyler Davis,DT,23,2025,0,0,0,3,3,33,0,0,0,0,0,0,0,0,0,0,0,26,,1.5,Clemson,College Stats,2024,0,tyler davis
 6,197,ATL,Zion Logue,DL,23,2025,0,0,0,0,,5,0,0,0,0,0,0,0,0,0,0,0,3,,0.5,Georgia,College Stats,2024,0,zion logue
 6,198,MIA,Patrick McMorris,DB,22,2024,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,,,California,College Stats,2024,0,patrick mcmorris
@@ -3546,7 +3546,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 7,221,BUF,Travis Clayton,OT,23,,0,0,0,,,,,,,,,,,,,,,,,,,,2024,0,travis clayton
 7,222,WAS,Javontae Jean-Baptiste,DL,24,2025,0,0,0,1,1,15,0,0,0,0,0,0,0,0,0,0,0,8,,2.0,Notre Dame,College Stats,2024,0,javontae jeanbaptiste
 7,223,LVR,Trey Taylor,S,23,2024,0,0,0,1,1,9,0,0,0,0,0,0,0,0,0,0,0,,,,Air Force,College Stats,2024,0,trey taylor
-7,224,CIN,Daijahn Anthony,SAF,23,2025,0,0,0,1,1,18,0,0,0,0,0,0,0,0,0,0,0,4,,,Mississippi,College Stats,2024,0,daijahn anthony
+7,224,CIN,Daijahn Anthony,S,23,2025,0,0,0,1,1,18,0,0,0,0,0,0,0,0,0,0,0,4,,,Mississippi,College Stats,2024,0,daijahn anthony
 7,225,LAC,Brenden Rice,WR,22,2024,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,,,,USC,College Stats,2024,0,brenden rice
 7,226,ARI,Jaden Davis,DB,23,2025,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,,,Miami (FL),College Stats,2024,0,jaden davis
 7,227,CLE,Myles Harden,DB,22,2025,0,0,0,3,3,20,0,0,0,0,0,0,0,0,0,0,0,31,,,South Dakota,,2024,0,myles harden
@@ -3564,7 +3564,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 7,239,NOR,Josiah Ezirim,OT,23,,0,0,0,,,,,,,,,,,,,,,,,,Eastern Kentucky,,2024,0,josiah ezirim
 7,240,CAR,Michael Barrett,LB,24,,0,0,0,,,,,,,,,,,,,,,,,,Michigan,College Stats,2024,0,michael barrett
 7,241,MIA,Tahj Washington,WR,23,2025,0,0,0,0,0,6,0,0,0,0,0,0,0,0,3,37,0,,,,USC,College Stats,2024,0,tahj washington
-7,242,TEN,James Williams,SAF,21,2025,0,0,0,3,3,29,0,0,0,0,0,0,0,0,0,0,0,39,,1.0,Miami (FL),College Stats,2024,0,james williams
+7,242,TEN,James Williams,S,21,2025,0,0,0,3,3,29,0,0,0,0,0,0,0,0,0,0,0,39,,1.0,Miami (FL),College Stats,2024,0,james williams
 7,243,CLE,Jowon Briggs,DE,23,2025,0,0,0,5,1,23,0,0,0,0,0,0,0,0,0,0,0,22,,4.0,Cincinnati,College Stats,2024,0,jowon briggs
 7,244,DAL,Justin Rogers,DL,22,,0,0,0,,,,,,,,,,,,,,,,,,Auburn,College Stats,2024,0,justin rogers
 7,245,GNB,Michael Pratt,QB,22,,0,0,0,,,,,,,,,,,,,,,,,,Tulane,College Stats,2024,0,michael pratt
@@ -3572,14 +3572,14 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 7,247,HOU,Marcus Harris,DL,23,,0,0,0,,,,,,,,,,,,,,,,,,Auburn,College Stats,2024,0,marcus harris
 7,248,KAN,C.J. Hanson,G,23,2025,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,,,,Holy Cross,,2024,0,cj hanson
 7,249,HOU,LaDarius Henderson,OL,22,,0,0,0,,,,,,,,,,,,,,,,,,Michigan,College Stats,2024,0,ladarius henderson
-7,250,BAL,Sanoussi Kane,SAF,22,2025,0,0,0,1,1,24,0,0,0,0,0,0,0,0,0,0,0,8,,,Purdue,College Stats,2024,0,sanoussi kane
+7,250,BAL,Sanoussi Kane,S,22,2025,0,0,0,1,1,24,0,0,0,0,0,0,0,0,0,0,0,8,,,Purdue,College Stats,2024,0,sanoussi kane
 7,251,SFO,Tatum Bethune,LB,23,2025,0,0,0,5,5,25,0,0,0,0,0,0,0,0,0,0,0,40,,1.0,Florida St.,College Stats,2024,0,tatum bethune
 7,252,TEN,Jaylen Harrell,DE,22,2025,0,0,0,3,3,34,0,0,0,0,0,0,0,0,0,0,0,22,,4.5,Michigan,College Stats,2024,0,jaylen harrell
 7,253,LAC,Cornelius Johnson,WR,23,,0,0,0,,,,,,,,,,,,,,,,,,Michigan,College Stats,2024,0,cornelius johnson
 7,254,LAR,KT Leveston,OL,24,2025,0,0,0,2,,16,0,0,0,0,0,0,0,0,0,0,0,,,,Kansas St.,College Stats,2024,0,kt leveston
 7,255,GNB,Kalen King,CB,21,2025,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,,,,Penn St.,College Stats,2024,0,kalen king
 7,256,DEN,Nick Gargiulo,OL,24,,0,0,0,,,,,,,,,,,,,,,,,,South Carolina,College Stats,2024,0,nick gargiulo
-7,257,NYJ,Jaylen Key,SAF,24,,0,0,0,,,,,,,,,,,,,,,,,,Alabama,College Stats,2024,0,jaylen key
+7,257,NYJ,Jaylen Key,S,24,,0,0,0,,,,,,,,,,,,,,,,,,Alabama,College Stats,2024,0,jaylen key
 1,1,TEN,Cam Ward,QB,23,2025,0,0,0,7,7,17,323,540,3169,15,7,39,159,2,0,0,0,,,,Miami (FL),College Stats,2025,0,cam ward
 1,2,JAX,Travis Hunter,WR,22,2025,0,0,0,5,5,7,0,0,0,0,0,1,0,0,28,298,1,11,,,Colorado,College Stats,2025,0,travis hunter
 1,3,NYG,Abdul Carter,DE,21,2025,0,0,0,4,4,17,0,0,0,0,0,0,0,0,0,0,0,25,,4.0,Penn St.,College Stats,2025,0,abdul carter
@@ -3606,7 +3606,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 1,24,MIN,Donovan Jackson,OL,22,2025,0,0,0,5,5,14,0,0,0,0,0,0,0,0,0,0,0,,,,Ohio St.,College Stats,2025,0,donovan jackson
 1,25,NYG,Jaxson Dart,QB,22,2025,0,0,0,11,11,14,216,339,2272,15,5,86,487,9,0,0,0,,,,Mississippi,College Stats,2025,0,jaxson dart
 1,26,ATL,James Pearce,DE,21,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,17,,10.5,Tennessee,College Stats,2025,0,james pearce
-1,27,BAL,Malaki Starks,SAF,21,2025,0,0,0,5,5,17,0,0,0,0,0,0,0,0,0,0,0,49,2,,Georgia,College Stats,2025,0,malaki starks
+1,27,BAL,Malaki Starks,S,21,2025,0,0,0,5,5,17,0,0,0,0,0,0,0,0,0,0,0,49,2,,Georgia,College Stats,2025,0,malaki starks
 1,28,DET,Tyleik Williams,DT,22,2025,0,0,0,4,4,17,0,0,0,0,0,0,0,0,0,0,0,8,,1.0,Ohio St.,College Stats,2025,0,tyleik williams
 1,29,WAS,Josh Conerly,OL,21,2025,0,0,0,8,8,17,0,0,0,0,0,0,0,0,0,0,0,,,,Oregon,College Stats,2025,0,josh conerly
 1,30,BUF,Maxwell Hairston,CB,22,2025,0,0,0,2,2,11,0,0,0,0,0,0,0,0,0,0,0,14,2,,Kentucky,College Stats,2025,0,maxwell hairston
@@ -3614,7 +3614,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 1,32,KAN,Josh Simmons,OL,22,2025,0,0,0,4,4,8,0,0,0,0,0,0,0,0,0,0,0,,,,Ohio St.,College Stats,2025,0,josh simmons
 2,33,CLE,Carson Schwesinger,LB,22,2025,0,0,0,8,8,16,0,0,0,0,0,0,0,0,0,0,0,67,2,2.5,UCLA,College Stats,2025,0,carson schwesinger
 2,34,HOU,Jayden Higgins,WR,22,2025,0,0,0,4,4,17,0,0,0,0,0,0,0,0,41,525,6,,,,Iowa St.,College Stats,2025,0,jayden higgins
-2,35,SEA,Nick Emmanwori,SAF,21,2025,0,0,0,4,4,14,0,0,0,0,0,0,0,0,0,0,0,56,1,2.5,South Carolina,College Stats,2025,0,nick emmanwori
+2,35,SEA,Nick Emmanwori,S,21,2025,0,0,0,4,4,14,0,0,0,0,0,0,0,0,0,0,0,56,1,2.5,South Carolina,College Stats,2025,0,nick emmanwori
 2,36,CLE,Quinshon Judkins,RB,21,2025,0,0,0,4,4,14,0,0,0,0,0,230,827,7,26,171,0,,,,Ohio St.,College Stats,2025,0,quinshon judkins
 2,37,MIA,Jonah Savaiinaea,OL,21,2025,0,0,0,6,6,17,0,0,0,0,0,0,0,0,0,0,0,,,,Arizona,College Stats,2025,0,jonah savaiinaea
 2,38,NWE,TreVeyon Henderson,RB,22,2025,0,0,0,8,8,17,0,0,0,0,0,180,911,9,35,221,1,,,,Ohio St.,College Stats,2025,0,treveyon henderson
@@ -3643,7 +3643,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 2,61,WAS,Trey Amos,CB,23,2025,0,0,0,2,2,10,0,0,0,0,0,0,0,0,0,0,0,19,,,Mississippi,College Stats,2025,0,trey amos
 2,62,CHI,Shemar Turner,DE,22,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,6,,,Texas A&M,College Stats,2025,0,shemar turner
 2,63,KAN,Omarr Norman-Lott,DT,23,2025,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,4,,1.0,Tennessee,College Stats,2025,0,omarr normanlott
-2,64,PHI,Andrew Mukuba,SAF,22,2025,0,0,0,3,3,11,0,0,0,0,0,0,0,0,0,0,0,27,2,0.5,Texas,College Stats,2025,0,andrew mukuba
+2,64,PHI,Andrew Mukuba,S,22,2025,0,0,0,3,3,11,0,0,0,0,0,0,0,0,0,0,0,27,2,0.5,Texas,College Stats,2025,0,andrew mukuba
 3,65,NYG,Darius Alexander,DT,25,2025,0,0,0,2,2,16,0,0,0,0,0,0,0,0,0,0,0,9,,3.5,Toledo,College Stats,2025,0,darius alexander
 3,66,KAN,Ashton Gillotte,DE,22,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,14,1,1.5,Louisville,College Stats,2025,0,ashton gillotte
 3,67,CLE,Harold Fannin,TE,21,2025,0,0,0,5,5,16,0,0,0,0,0,7,13,1,72,731,6,,,,Bowling Green,College Stats,2025,0,harold fannin
@@ -3661,21 +3661,21 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 3,79,HOU,Jaylin Noel,WR,23,2025,0,0,0,2,2,17,0,0,0,0,0,6,12,0,26,292,2,,,,Iowa St.,College Stats,2025,0,jaylin noel
 3,80,IND,Justin Walley,CB,22,,0,0,0,,,,,,,,,,,,,,,,,,Minnesota,College Stats,2025,0,justin walley
 3,81,CIN,Dylan Fairchild,OL,22,2025,0,0,0,6,6,15,0,0,0,0,0,0,0,0,0,0,0,,,,Georgia,College Stats,2025,0,dylan fairchild
-3,82,TEN,Kevin Winston,SAF,21,2025,0,0,0,2,2,10,0,0,0,0,0,0,0,0,0,0,0,21,,1.0,Penn St.,College Stats,2025,0,kevin winston
+3,82,TEN,Kevin Winston,S,21,2025,0,0,0,2,2,10,0,0,0,0,0,0,0,0,0,0,0,21,,1.0,Penn St.,College Stats,2025,0,kevin winston
 3,83,PIT,Kaleb Johnson,RB,22,2025,0,0,0,1,1,10,0,0,0,0,0,28,69,0,1,9,0,,,,Iowa,College Stats,2025,0,kaleb johnson
 3,84,TAM,Jacob Parrish,CB,21,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,50,2,2.0,Kansas St.,College Stats,2025,0,jacob parrish
 3,85,KAN,Nohl Williams,CB,22,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,30,,1.0,California,College Stats,2025,0,nohl williams
 3,86,LAC,Jamaree Caldwell,DT,25,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,14,,1.0,Oregon,College Stats,2025,0,jamaree caldwell
 3,87,GNB,Savion Williams,WR,23,2025,0,0,0,1,1,12,0,0,0,0,0,11,37,0,10,78,1,,,,TCU,College Stats,2025,0,savion williams
-3,88,JAX,Caleb Ransaw,SAF,22,,0,0,0,,,,,,,,,,,,,,,,,,Tulane,College Stats,2025,0,caleb ransaw
+3,88,JAX,Caleb Ransaw,S,22,,0,0,0,,,,,,,,,,,,,,,,,,Tulane,College Stats,2025,0,caleb ransaw
 3,89,JAX,Wyatt Milum,OL,22,2025,0,0,0,1,1,10,0,0,0,0,0,0,0,0,0,0,0,,,,West Virginia,College Stats,2025,0,wyatt milum
 3,90,LAR,Josaiah Stewart,DE,22,2025,0,0,0,2,2,17,0,0,0,0,0,0,0,0,0,0,0,13,,3.0,Michigan,College Stats,2025,0,josaiah stewart
 3,91,BAL,Emery Jones,OL,21,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,,,,LSU,College Stats,2025,0,emery jones
 3,92,SEA,Jalen Milroe,QB,22,2025,0,0,0,0,0,3,0,0,0,0,0,3,4,0,0,0,0,,,,Alabama,College Stats,2025,0,jalen milroe
-3,93,NOR,Jonas Sanker,SAF,22,2025,0,0,0,7,7,17,0,0,0,0,0,0,0,0,0,0,0,46,2,,Virginia,College Stats,2025,0,jonas sanker
+3,93,NOR,Jonas Sanker,S,22,2025,0,0,0,7,7,17,0,0,0,0,0,0,0,0,0,0,0,46,2,,Virginia,College Stats,2025,0,jonas sanker
 3,94,CLE,Dillon Gabriel,QB,24,2025,0,0,0,0,0,10,110,185,937,7,2,14,86,0,0,0,0,,,,Oregon,College Stats,2025,0,dillon gabriel
 3,95,NWE,Jared Wilson,OL,22,2025,0,0,0,7,7,13,0,0,0,0,0,0,0,0,0,0,0,,,,Georgia,College Stats,2025,0,jared wilson
-3,96,ATL,Xavier Watts,SAF,23,2025,0,0,0,7,7,17,0,0,0,0,0,0,0,0,0,0,0,59,5,,Notre Dame,College Stats,2025,0,xavier watts
+3,96,ATL,Xavier Watts,S,23,2025,0,0,0,7,7,17,0,0,0,0,0,0,0,0,0,0,0,59,5,,Notre Dame,College Stats,2025,0,xavier watts
 3,97,HOU,Jaylin Smith,CB,21,2025,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,3,,,USC,College Stats,2025,0,jaylin smith
 3,98,LVR,Caleb Rogers,OL,23,2025,0,0,0,2,2,6,0,0,0,0,0,0,0,0,0,0,0,,,,Texas Tech,College Stats,2025,0,caleb rogers
 3,99,LVR,Charles Grant,OL,23,2025,0,0,0,1,1,9,0,0,0,0,0,0,0,0,0,0,0,,,,William & Mary,,2025,0,charles grant
@@ -3685,7 +3685,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 4,103,TEN,Chimere Dike,WR,23,2025,1,1,0,5,5,17,0,0,0,0,0,11,18,0,48,423,4,,,,Florida,College Stats,2025,1,chimere dike
 4,104,JAX,Bhayshul Tuten,RB,22,2025,0,0,0,3,3,15,0,0,0,0,0,83,307,5,10,79,2,,,,Virginia Tech,College Stats,2025,0,bhayshul tuten
 4,105,NYG,Cam Skattebo,RB,23,2025,0,0,0,5,5,8,0,0,0,0,0,101,410,5,24,207,2,,,,Arizona St.,College Stats,2025,0,cam skattebo
-4,106,NWE,Craig Woodson,SAF,24,2025,0,0,0,6,6,17,0,0,0,0,0,0,0,0,0,0,0,42,,,California,College Stats,2025,0,craig woodson
+4,106,NWE,Craig Woodson,S,24,2025,0,0,0,6,6,17,0,0,0,0,0,0,0,0,0,0,0,42,,,California,College Stats,2025,0,craig woodson
 4,107,JAX,Jack Kiser,LB,24,2025,0,0,0,1,1,14,0,0,0,0,0,0,0,0,0,0,0,5,,,Notre Dame,College Stats,2025,0,jack kiser
 4,108,LVR,Dont'e Thornton,WR,22,2025,0,0,0,1,1,15,0,0,0,0,0,0,0,0,10,135,0,,,,Tennessee,College Stats,2025,0,donte thornton
 4,109,BUF,Deone Walker,DT,21,2025,0,0,0,8,8,17,0,0,0,0,0,0,0,0,0,0,0,17,,1.0,Kentucky,College Stats,2025,0,deone walker
@@ -3697,11 +3697,11 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 4,115,ARI,Cody Simon,LB,23,2025,0,0,0,3,3,16,0,0,0,0,0,0,0,0,0,0,0,30,,0.5,Ohio St.,College Stats,2025,0,cody simon
 4,116,HOU,Woody Marks,RB,24,2025,0,0,0,6,6,16,0,0,0,0,0,196,703,2,24,208,3,,,,USC,College Stats,2025,0,woody marks
 4,117,LAR,Jarquez Hunter,RB,22,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,,,,Auburn,College Stats,2025,0,jarquez hunter
-4,118,ATL,Billy Bowman,SAF,22,2025,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,0,0,15,1,1.5,Oklahoma,College Stats,2025,0,billy bowman
+4,118,ATL,Billy Bowman,S,22,2025,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,0,0,15,1,1.5,Oklahoma,College Stats,2025,0,billy bowman
 4,119,CIN,Barrett Carter,LB,22,2025,0,0,0,5,5,17,0,0,0,0,0,0,0,0,0,0,0,53,1,,Clemson,College Stats,2025,0,barrett carter
 4,120,TEN,Gunnar Helm,TE,23,2025,0,0,0,3,3,16,0,0,0,0,0,0,0,0,44,357,2,1,,,Texas,College Stats,2025,0,gunnar helm
 4,121,TAM,David Walker,LB,25,,0,0,0,,,,,,,,,,,,,,,,,,Central Arkansas,,2025,0,david walker
-4,122,CAR,Lathan Ransom,SAF,23,2025,0,0,0,3,3,16,0,0,0,0,0,0,0,0,0,0,0,21,1,1.0,Ohio St.,College Stats,2025,0,lathan ransom
+4,122,CAR,Lathan Ransom,S,23,2025,0,0,0,3,3,16,0,0,0,0,0,0,0,0,0,0,0,21,1,1.0,Ohio St.,College Stats,2025,0,lathan ransom
 4,123,PIT,Jack Sawyer,DE,23,2025,0,0,0,2,2,17,0,0,0,0,0,0,0,0,0,0,0,16,2,1.0,Ohio St.,College Stats,2025,0,jack sawyer
 4,124,GNB,Barryn Sorrell,DE,22,2025,0,0,0,2,2,14,0,0,0,0,0,0,0,0,0,0,0,7,,1.5,Texas,College Stats,2025,0,barryn sorrell
 4,125,LAC,Kyle Kennard,DE,23,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,,,South Carolina,College Stats,2025,0,kyle kennard
@@ -3709,7 +3709,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 4,127,IND,Jalen Travis,OT,23,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,,,,Iowa St.,College Stats,2025,0,jalen travis
 4,128,WAS,Jaylin Lane,WR,23,2025,0,0,0,4,4,15,0,0,0,0,0,1,7,0,16,225,0,,,,Virginia Tech,College Stats,2025,0,jaylin lane
 4,129,BAL,Teddye Buchanan,LB,22,2025,0,0,0,5,5,14,0,0,0,0,0,0,0,0,0,0,0,49,,0.5,California,College Stats,2025,0,teddye buchanan
-4,130,NYJ,Malachi Moore,SAF,23,2025,0,0,0,4,4,17,0,0,0,0,0,0,0,0,1,3,0,56,,,Alabama,College Stats,2025,0,malachi moore
+4,130,NYJ,Malachi Moore,S,23,2025,0,0,0,4,4,17,0,0,0,0,0,0,0,0,1,3,0,56,,,Alabama,College Stats,2025,0,malachi moore
 4,131,NOR,Quincy Riley,CB,24,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,29,1,,Louisville,College Stats,2025,0,quincy riley
 4,132,CHI,Ruben Hyppolite,LB,23,2025,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,3,,,Maryland,College Stats,2025,0,ruben hyppolite
 4,133,KAN,Jalen Royals,WR,22,2025,0,0,0,0,0,7,0,0,0,0,0,0,0,0,2,4,0,1,,,Utah St.,College Stats,2025,0,jalen royals
@@ -3734,12 +3734,12 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 5,152,DAL,Shemar James,LB,21,2025,0,0,0,2,2,14,0,0,0,0,0,0,0,0,0,0,0,40,,1.5,Florida,College Stats,2025,0,shemar james
 5,153,CIN,Jalen Rivers,OL,22,2025,0,0,0,3,3,16,0,0,0,0,0,0,0,0,0,0,0,,,,Miami (FL),College Stats,2025,0,jalen rivers
 5,154,NYG,Marcus Mbow,OL,22,2025,0,0,0,2,2,13,0,0,0,0,0,0,0,0,0,0,0,,,,Purdue,College Stats,2025,0,marcus mbow
-5,155,MIA,Dante Trader,SAF,22,2025,0,0,0,2,2,17,0,0,0,0,0,0,0,0,0,0,0,29,,,Maryland,College Stats,2025,0,dante trader
+5,155,MIA,Dante Trader,S,22,2025,0,0,0,2,2,17,0,0,0,0,0,0,0,0,0,0,0,29,,,Maryland,College Stats,2025,0,dante trader
 5,156,KAN,Jeffrey Bassa,LB,22,2025,0,0,0,1,1,17,0,0,0,0,0,0,0,0,0,0,0,6,,,Oregon,College Stats,2025,0,jeffrey bassa
 5,157,TAM,Elijah Roberts,DT,23,2025,0,0,0,5,5,17,0,0,0,0,0,0,0,0,0,0,0,10,,2.0,SMU,College Stats,2025,0,elijah roberts
 5,158,LAC,KeAndre Lambert-Smith,WR,23,2025,0,0,0,0,0,10,0,0,0,0,0,0,0,0,5,51,1,,,,Auburn,College Stats,2025,0,keandre lambertsmith
 5,159,GNB,Collin Oliver,DE,22,2025,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,,,Oklahoma St.,College Stats,2025,0,collin oliver
-5,160,SFO,Marques Sigle,SAF,23,2025,0,0,0,3,3,15,0,0,0,0,0,0,0,0,0,0,0,28,,,Kansas St.,College Stats,2025,0,marques sigle
+5,160,SFO,Marques Sigle,S,23,2025,0,0,0,3,3,15,0,0,0,0,0,0,0,0,0,0,0,28,,,Kansas St.,College Stats,2025,0,marques sigle
 5,161,PHI,Smael Mondon,LB,22,2025,0,0,0,1,1,17,0,0,0,0,0,0,0,0,0,0,0,4,,,Georgia,College Stats,2025,0,smael mondon
 5,162,NYJ,Francisco Mauigoa,LB,22,2025,0,0,0,3,3,12,0,0,0,0,0,0,0,0,0,0,0,16,,,Miami (FL),College Stats,2025,0,francisco mauigoa
 5,163,CAR,Mitchell Evans,TE,22,2025,0,0,0,2,2,17,0,0,0,0,0,1,1,0,19,171,2,,,,Notre Dame,College Stats,2025,0,mitchell evans
@@ -3749,7 +3749,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 5,167,TEN,Jackson Slater,OL,22,2025,0,0,0,1,1,12,0,0,0,0,0,0,0,0,0,0,0,,,,Sacramento St.,,2025,0,jackson slater
 5,168,PHI,Drew Kendall,C,23,2025,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,,,,Boston Col.,College Stats,2025,0,drew kendall
 5,169,CHI,Zah Frazier,CB,24,,0,0,0,,,,,,,,,,,,,,,,,,Texas-San Antonio,College Stats,2025,0,zah frazier
-5,170,BUF,Jordan Hancock,SAF,22,2025,0,0,0,1,1,13,0,0,0,0,0,0,0,0,0,0,0,9,,,Ohio St.,College Stats,2025,0,jordan hancock
+5,170,BUF,Jordan Hancock,S,22,2025,0,0,0,1,1,13,0,0,0,0,0,0,0,0,0,0,0,9,,,Ohio St.,College Stats,2025,0,jordan hancock
 5,171,DET,Miles Frazier,G,23,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,,,,LSU,College Stats,2025,0,miles frazier
 5,172,LAR,Chris Paul,LB,22,,0,0,0,,,,,,,,,,,,,,,,,,Mississippi,College Stats,2025,0,chris paul
 5,173,BUF,Jackson Hawes,TE,24,2025,0,0,0,2,2,17,0,0,0,0,0,0,0,0,16,187,3,,,,Georgia Tech,College Stats,2025,0,jackson hawes
@@ -3766,7 +3766,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 6,184,NOR,Devin Neal,RB,22,2025,0,0,0,2,2,10,0,0,0,0,0,57,206,2,17,104,0,,,,Kansas,College Stats,2025,0,devin neal
 6,185,PIT,Will Howard,QB,23,,0,0,0,,,,,,,,,,,,,,,,,,Ohio St.,College Stats,2025,0,will howard
 6,186,BAL,Tyler Loop,K,24,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,2,,,Arizona,College Stats,2025,0,tyler loop
-6,187,HOU,Jaylen Reed,SAF,22,2025,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,9,,,Penn St.,College Stats,2025,0,jaylen reed
+6,187,HOU,Jaylen Reed,S,22,2025,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,9,,,Penn St.,College Stats,2025,0,jaylen reed
 6,188,TEN,Kalel Mullings,RB,22,2025,0,0,0,0,0,9,0,0,0,0,0,3,7,0,0,0,0,1,,,Michigan,College Stats,2025,0,kalel mullings
 6,189,IND,Riley Leonard,QB,22,2025,0,0,0,2,2,5,39,67,415,2,3,6,27,2,0,-3,0,,,,Notre Dame,College Stats,2025,0,riley leonard
 6,190,IND,Tim Smith,DL,23,,0,0,0,,,,,,,,,,,,,,,,,,Alabama,College Stats,2025,0,tim smith
@@ -3793,7 +3793,7 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 6,211,ARI,Hayden Conner,OL,23,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,,,,Texas,College Stats,2025,0,hayden conner
 6,212,BAL,Robert Longerbeam,DB,24,,0,0,0,,,,,,,,,,,,,,,,,,Rutgers,College Stats,2025,0,robert longerbeam
 6,213,LVR,Tommy Mellott,QB,,,0,0,0,,,,,,,,,,,,,,,,,,Montana St.,,2025,0,tommy mellott
-6,214,LAC,R.J. Mickens,SAF,24,2025,0,0,0,3,3,12,0,0,0,0,0,0,0,0,0,0,0,18,2,,Clemson,College Stats,2025,0,rj mickens
+6,214,LAC,R.J. Mickens,S,24,2025,0,0,0,3,3,12,0,0,0,0,0,0,0,0,0,0,0,18,2,,Clemson,College Stats,2025,0,rj mickens
 6,215,LVR,Cam Miller,QB,24,,0,0,0,,,,,,,,,,,,,,,,,,North Dakota St.,,2025,0,cam miller
 6,216,DEN,Jeremy Crawshaw,P,24,2025,0,0,0,3,3,17,0,0,0,0,0,0,0,0,0,0,0,,,,Florida,College Stats,2025,0,jeremy crawshaw
 7,217,DAL,Jay Toia,DT,22,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,,,UCLA,College Stats,2025,0,jay toia
@@ -3804,14 +3804,14 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 7,222,LVR,Cody Lindenberg,LB,23,2025,0,0,0,1,1,17,0,0,0,0,0,0,0,0,0,0,0,4,,,Minnesota,College Stats,2025,0,cody lindenberg
 7,223,SEA,Damien Martinez,RB,21,,0,0,0,,,,,,,,,,,,,,,,,,Miami (FL),College Stats,2025,0,damien martinez
 7,224,HOU,Kyonte Hamilton,DL,22,,0,0,0,,,,,,,,,,,,,,,,,,Rutgers,College Stats,2025,0,kyonte hamilton
-7,225,ARI,Kitan Crawford,SAF,23,2025,0,0,0,1,1,15,0,0,0,0,0,0,0,0,0,0,0,11,,,Nevada,College Stats,2025,0,kitan crawford
+7,225,ARI,Kitan Crawford,S,23,2025,0,0,0,1,1,15,0,0,0,0,0,0,0,0,0,0,0,11,,,Nevada,College Stats,2025,0,kitan crawford
 7,226,PIT,Carson Bruener,LB,24,2025,0,0,0,1,1,17,0,0,0,0,0,0,0,0,0,0,0,7,,,Washington,College Stats,2025,0,carson bruener
 7,227,SFO,Kurtis Rourke,QB,24,,0,0,0,,,,,,,,,,,,,,,,,,Indiana,College Stats,2025,0,kurtis rourke
 7,228,KAN,Brashard Smith,RB,22,2025,0,0,0,3,3,17,0,0,0,0,0,44,151,0,25,172,1,,,,SMU,College Stats,2025,0,brashard smith
 7,229,PIT,Donte Kent,CB,23,,0,0,0,,,,,,,,,,,,,,,,,,Central Michigan,College Stats,2025,0,donte kent
-7,230,DET,Dan Jackson,SAF,24,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats,2025,0,dan jackson
+7,230,DET,Dan Jackson,S,24,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats,2025,0,dan jackson
 7,231,MIA,Quinn Ewers,QB,22,2025,0,0,0,2,2,4,55,83,622,3,3,8,19,0,1,-6,0,,,,Texas,College Stats,2025,0,quinn ewers
-7,232,IND,Hunter Wohler,SAF,22,,0,0,0,,,,,,,,,,,,,,,,,,Wisconsin,College Stats,2025,0,hunter wohler
+7,232,IND,Hunter Wohler,S,22,,0,0,0,,,,,,,,,,,,,,,,,,Wisconsin,College Stats,2025,0,hunter wohler
 7,233,CHI,Kyle Monangai,RB,23,2025,0,0,0,6,6,17,0,0,0,0,0,169,783,5,18,164,0,,,,Rutgers,College Stats,2025,0,kyle monangai
 7,234,SEA,Mason Richman,OL,23,2025,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,,,Iowa,College Stats,2025,0,mason richman
 7,235,TAM,Tez Johnson,WR,23,2025,0,0,0,3,3,16,0,0,0,0,0,7,22,0,28,322,5,,,,Oregon,College Stats,2025,0,tez johnson
@@ -3835,5 +3835,5 @@ round,pick,team,player_name,position,age,Unnamed: 6_level_0_To,ap1_count,pro_bow
 7,253,MIA,Zeek Biggers,DL,21,2025,0,0,0,1,1,9,0,0,0,0,0,0,0,0,0,0,0,6,,1.5,Georgia Tech,College Stats,2025,0,zeek biggers
 7,254,NOR,Fadil Diggs,DE,23,2025,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,,,,Syracuse,College Stats,2025,0,fadil diggs
 7,255,HOU,Luke Lachey,TE,24,,0,0,0,,,,,,,,,,,,,,,,,,Iowa,College Stats,2025,0,luke lachey
-7,256,LAC,Trikweze Bridges,SAF,24,2025,0,0,0,1,,16,0,0,0,0,0,0,0,0,0,0,0,17,1,,Florida,College Stats,2025,0,trikweze bridges
+7,256,LAC,Trikweze Bridges,S,24,2025,0,0,0,1,,16,0,0,0,0,0,0,0,0,0,0,0,17,1,,Florida,College Stats,2025,0,trikweze bridges
 7,257,NWE,Kobee Minor,DB,23,2025,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,,,Memphis,College Stats,2025,0,kobee minor

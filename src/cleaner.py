@@ -14,6 +14,7 @@ POSITION_MAP = {
     "FB": "RB",
     "FS": "S",
     "SS": "S",
+    "SAF": "S",
     "LT": "OT",
     "RT": "OT",
     "LG": "OG",
