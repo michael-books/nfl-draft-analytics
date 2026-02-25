@@ -23,7 +23,7 @@ def compute_hit_rates_by_round(df: pd.DataFrame) -> pd.DataFrame:
 
 # Generic group labels that overlap with specific positions — excluded from
 # position-level charts to avoid double-counting (e.g. OL subsumes C/T/G/OT/OG).
-GENERIC_POSITIONS = {"OL", "DL"}
+GENERIC_POSITIONS = {"OL", "DL", "DB"}
 
 
 def compute_hit_rates_by_position(
