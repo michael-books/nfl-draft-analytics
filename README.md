@@ -2,7 +2,7 @@
 
 > **Who actually becomes elite?** — An analysis of NFL Draft hit rates by round, position, and pick number using Pro Football Reference data (2010–2024).
 
-**[Live Demo →](https://michael-books-nfl-draft-analytics-app-streamlitapp.streamlit.app)**
+**[Live Demo →](https://nfl-draft-analytics-r2t5xjb4fax5zaehevidas.streamlit.app)**
 
 ## Overview
 
